@@ -29,13 +29,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
-
+react js is a UI that can reuse components that will always change as your data changes it's better for handling dynamic data
 1. Describe component state.
-
+a component state is something that allows us to collect data and store it in state saving it and also being able to change it depending on whats done
 1. Describe props.
-
+props are what you can passthrough from component to component essentially and use as arguments to pull data from the state
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
-
+side effects are when you useEffects and they are basically event listeners in a way to have this render this effect happens on render of page etc
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
